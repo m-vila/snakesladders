@@ -1,2 +1,5 @@
-# snakesladders
-Python coding solution to Voxel's Technical Interview kata - SnakesAndLadders for the Sotfware Apprenticeship position
+# SnakesAndLadders
+
+In this notebook you will find a Python coding solution to <a href="https://github.com/VoxelGroup/Katas.Code.SnakesAndLadders/" target="_blank">Voxel's Technical Interview kata - SnakesAndLadders</a> for the Sotfware Apprenticeship position.
+
+
