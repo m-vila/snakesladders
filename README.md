@@ -1,6 +1,6 @@
 # SnakesAndLadders
 
-In this notebook you will find a Python coding solution to <a href="https://github.com/VoxelGroup/Katas.Code.SnakesAndLadders/" target="_blank">Voxel's Technical Interview kata - SnakesAndLadders</a> for the Sotfware Apprenticeship position.
+In the attached notebook you will find a Python coding solution to <a href="https://github.com/VoxelGroup/Katas.Code.SnakesAndLadders/" target="_blank">Voxel's Technical Interview kata - SnakesAndLadders</a> for the Sotfware Apprenticeship position.
 
 
 ### Main Goal & Requirements
@@ -19,6 +19,6 @@ The goal is to create a platform agnostic version of the classic game that can b
 ### Structure of the notebook
 
 I started creating a frontend version of the game since it is more interactive and easier to follow. <br>
-Once I was satisfied with the results I went for a backend solution which was the main goal of the assignment.
+Once I was satisfied with the results I went for a backend solution which was the main goal of the assignment and performed some manual tests at the end.
 
 Last but not least I included a "Room for growth" section with aspects that can be perfected.
